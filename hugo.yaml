@@ -1,0 +1,38 @@
+baseURL: 'https://pseudo-monkeys.github.io/'
+languageCode: 'en-us'
+title: 'Pseudo Monkeys'
+theme: 'hextra'
+
+menu:
+  main:
+    - name: "Docs" 
+      identifier: "docs"
+      url: "/docs/installation"
+      weight: 1
+
+    - name: "About"
+      identifier: "about"
+      url: "/about"
+      weight: 2
+
+    - name: "Search"
+      identifier: "search"
+      weight: 3
+      params:
+        type: "search"
+
+    - name: "Github"
+      identifier: "github"
+      url: "https://github.com/Pseudo-Monkeys/templ-icons-lucide"
+      weight: 4
+      params:
+        icon: "github"
+
+params:
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+  page:
+    width: normal
+
