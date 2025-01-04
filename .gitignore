@@ -1,2 +1,8 @@
 steps.txt
 public/
+
+themes/hextra/node_modules/
+themes/hextra/public/
+themes/hextra/resources/
+
+themes/hextra/.hugo_build.lock
