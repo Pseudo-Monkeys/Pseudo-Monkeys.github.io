@@ -1,5 +1,6 @@
 steps.txt
 public/
+node_modules
 
 themes/hextra/node_modules/
 themes/hextra/public/
