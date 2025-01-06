@@ -7,7 +7,7 @@ menu:
   main:
     - name: "Docs" 
       identifier: "docs"
-      url: "/docs/installation"
+      url: "/docs"
       weight: 1
 
     - name: "About"

@@ -1,9 +1,9 @@
-+++
-date = '2024-12-27T17:31:15+05:30'
-draft = true
-title = 'Customization'
-weight = 3
-+++
+---
+date: '2024-12-27T17:31:15+05:30'
+draft: true
+title: 'Customization'
+weight: 3
+---
 
 You can customize the rendering of icons directly in your templ components file. Available customization options include:
 

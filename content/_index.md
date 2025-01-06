@@ -9,7 +9,7 @@ sidebar:
 width: full
 ---
 
-## Pseudo Monkeys
-
+## Explore
 {{< cards >}}
+    {{< card link="/docs/templ-icons-lucide" title="Templ-icons-lucide" icon="code-xml" tag="" >}}
 {{< /cards >}}
