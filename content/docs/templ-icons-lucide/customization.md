@@ -1,6 +1,6 @@
 ---
 date: '2024-12-27T17:31:15+05:30'
-draft: true
+draft: false
 title: 'Customization'
 weight: 3
 ---

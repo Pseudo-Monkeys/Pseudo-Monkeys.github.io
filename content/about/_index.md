@@ -1,6 +1,6 @@
 ---
 date : '2024-12-27T17:35:18+05:30'
-draft : true
+draft : false
 title : 'About'
 excludeSearch : true
 toc : false

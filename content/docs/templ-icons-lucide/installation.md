@@ -1,6 +1,6 @@
 ---
 date: '2024-12-27T16:48:05+05:30'
-draft: true
+draft: false
 title: 'Installation'
 weight: 1
 ---
