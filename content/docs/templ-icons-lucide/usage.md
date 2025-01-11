@@ -34,13 +34,13 @@ import "github.com/Pseudo-Monkeys/templ-icons-lucide/lib"
 templ hello(name string) {
 	<div>
         Hello, {name} 
-        @lucide.Hand(lib.IconProps{
+        @lucide.ChevronLeft(lib.IconProps{
             Size: "24",
         })
     </div>
 }
 ```
 
-In the above example, the `lucide.Hand` function is used to render the "chevron-left" icon with customized size and color.
+In the above example, the `lucide.ChevronLeft` component is used to render the "chevron-left" icon with customized size and color.
 
-To learn more about Go templ use [Templ](https://templ.guide/quick-start/creating-a-simple-templ-component) documentation
+To learn more about Go templ use [Templ](https://templ.guide) documentation
